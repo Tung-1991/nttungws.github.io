@@ -1,23 +1,18 @@
 ---
-title : "Start with Amazon VPC and AWS VPN Site-to-Site"
+title : "Workshop Basic"
 date : "`r Sys.Date()`"
 weight : 1
 chapter : false
 ---
 
-# Start with Amazon VPC and AWS VPN Site-to-Site
+# Chào mừng đến với website của NTTUNG
 
-#### Overview
+#### Mở đầu
+Đây là một website được host thông qua tính năng Page [GithubPage](https://pages.github.com/) mục đích của website này là nơi lưu trữ các kiến thức,thực hiện project về lĩnh vực công nghệ thông tin ^_^. 
 
-In this lab, you will explore the fundamentals of Amazon VPC (Virtual Private Cloud) and AWS VPN (Virtual Private Network) Site-to-Site connections. Gain an understanding of essential concepts and features within Amazon VPC, and practice creating a basic VPC. Additionally, learn how to configure a Site-to-Site VPN to establish a connection between an on-premise environment and an AWS VPC environment.
+![Welcome](download.jpg?featherlight=false&width=10pc)
 
-![VPC](../images/1-Introduce/serviceicon.png?featherlight=false&width=10pc)
+#### Nội dung 
 
-#### Content
-
-1. [Introduction to VPC](1-introduce/)
-2. [Firewall within VPC](2-firewallinvpc/)
-3. [Preparation Steps](3-prerequiste/)
-4. [Creating an EC2 Server](4-createec2server/)
-5. [Configuration of Site-to-Site VPN](5-vpnsitetosite/)
-6. [Resource Cleanup](6-cleanup/)
+0. [Giới thiệu](0-Basic/)
+1. [CDinfra trên môi trường VCSA](1-CDinfra_VCSA/)
