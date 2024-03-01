@@ -24,12 +24,3 @@ other = "Lainnya"
 
 [Expand-title]
 other = "Bentangkan..."
-
-[Byte-symbol]
-other = "B"
-
-[Kilobyte-symbol]
-other = "KB"
-
-[Megabyte-symbol]
-other = "MB"

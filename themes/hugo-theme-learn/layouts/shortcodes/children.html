@@ -35,6 +35,8 @@
 	{{end}}
 </ul>
 
+{{.Inner|safeHTML}}
+
 {{ define "childs" }}
 	{{ range .menu }}
 		{{ if and .Params.hidden (not $.showhidden) }}

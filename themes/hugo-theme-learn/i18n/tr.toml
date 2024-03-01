@@ -24,12 +24,3 @@ other = "Dahası Var"
 
 [Expand-title]
 other = "Genişlet..."
-
-[Byte-symbol]
-other = "B"
-
-[Kilobyte-symbol]
-other = "KB"
-
-[Megabyte-symbol]
-other = "MB"

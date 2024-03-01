@@ -24,12 +24,3 @@ other = "Mais"
 
 [Expand-title]
 other = "Expandir..."
-
-[Byte-symbol]
-other = "B"
-
-[Kilobyte-symbol]
-other = "KB"
-
-[Megabyte-symbol]
-other = "MB"

@@ -24,12 +24,3 @@ other = "Mehr"
 
 [Expand-title]
 other = "Erweitere mich..."
-
-[Byte-symbol]
-other = "B"
-
-[Kilobyte-symbol]
-other = "KB"
-
-[Megabyte-symbol]
-other = "MB"

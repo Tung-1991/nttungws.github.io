@@ -24,12 +24,3 @@ other = "Snelkoppelingen"
 
 [Expand-title]
 other = "Lees meer..."
-
-[Byte-symbol]
-other = "B"
-
-[Kilobyte-symbol]
-other = "KB"
-
-[Megabyte-symbol]
-other = "MB"
